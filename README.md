@@ -1,4 +1,4 @@
-# Readme file to the the assignment of Getting and Cleaning Data
+# Assignment to Getting and Cleaning Data
 This repo contains mainly the script run_analysis.R.
 
 run_analysis.R produces a tidy subset of the UCI HAR dataset. In particular, the script contains 6 steps:
