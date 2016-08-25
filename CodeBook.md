@@ -20,6 +20,9 @@
 
 ## Workflow
 The workflow of the code mainly consists of three steps (a high-level representation of the 6 steps in README.md):
+
 1. Load all data (lines 14-37)
+
 2. Merge and select data (lines 39-73)
+
 3. Aggregate to mean (lines 75-91).
